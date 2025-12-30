@@ -1,4 +1,3 @@
-pas de débrideur ? ➡️ Teste Torbox ici : https://www.torbox.app/subscription?referral=5daecbad-00af-4e2d-af48-123ca49c1947
 
 ```
 sudo apt-get update
